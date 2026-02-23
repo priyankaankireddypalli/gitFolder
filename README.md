@@ -1,2 +1,0 @@
-# gitFolder
-Git for reference
